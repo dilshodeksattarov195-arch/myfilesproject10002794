@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartrpdate",
+        "uuid": 23586948,
+        "checksum": "jlgr2f"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
